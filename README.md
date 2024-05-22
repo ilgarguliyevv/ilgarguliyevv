@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **JS,React,MongoDB**
+- 🌱 I’m currently learning **JS, React, MongoDB**
 
-- 💬 Ask me about **JS,React**
+- 💬 Ask me about **JS, React**
 
 - 📫 How to reach me **ilgarguliyev2004@gmail.com**
 
